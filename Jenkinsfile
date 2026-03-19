@@ -1,4 +1,4 @@
-pipeline {l
+pipeline {
 agent any
 stages {
     stage('Clone Repo') {
